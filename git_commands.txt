@@ -1,0 +1,20 @@
+git status
+   20  git add testing.py
+   21  git status
+   22  git rm --cached
+   23  git status
+   24  git rm --cached testing.py
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit -m "first"
+   29  git status
+   30  rm testing.py
+   31  ls
+   32  rm -rf testing.py
+   33  ls
+   34  git revert
+   35  git status
+   36  git restore testing.py
+   37  git status
+
