@@ -18,3 +18,23 @@ git status
    36  git restore testing.py
    37  git status
 
+vim git_commands.txt
+   41  git status
+   42  git add .
+   43  git status
+   44  git commit -m "git-command"
+   45  git status
+   46  git remote add origin https://github.com/pragya2396/github-for-devops.git
+   47  git remote -v
+   48  git remote set-url origin
+   49  git remote set-url origin https://ghp_s2ekxscSxTuiOLNfJR1Uat2qO4741U1apJV                                                                             s@github.com/pragya2396/github-for-devops.git
+   50  git remote -v
+   51  pit push origin master
+   52  git push origin master
+   53  git remote -v
+   54  cd
+   55  mkdir git-demo-new
+   56  ls
+   57  cd git-demo-new
+   58  git clone https://github.com/pragya2396/github-for-devops.git
+
